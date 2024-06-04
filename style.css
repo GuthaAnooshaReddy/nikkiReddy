@@ -102,11 +102,11 @@ body{
     }
     .card{
         top:80px;
-        left:60px;
+        left:40px;
     }
     .block{
         position: absolute;
         top: 660px;
-        left: 0px;
+        left: -35px;
     }
 }
